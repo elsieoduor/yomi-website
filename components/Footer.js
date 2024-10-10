@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-wrap md:text-left text-center -mb-10 -mx-4 justify-between">
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-            <h2 className="title-font font-medium text-[#182c21] tracking-widest text-sm mb-3">Wok & Roll</h2>
+            <h2 className="title-font font-medium text-[#182c21] tracking-widest text-sm mb-3">Mamushi Restaurant</h2>
             <p className="mb-4 text-[#182c21]">Where East Meets West: A Culinary Journey Through Bold Flavors and Inspired Fusion</p>
             <h2 className="title-font font-medium text-[#182c21] tracking-widest text-sm mb-1 mt-3">Quick Links</h2>
             <nav className="list-none mb-10">
@@ -14,7 +14,7 @@ const Footer = () => {
                 <a className="text-[#182c21] hover:text-[#57ad7c] transition-colors duration-200">Home</a>
               </li>
               <li>
-                <a className="text-[#182c21] hover:text-[#57ad7c] transition-colors duration-200">About</a>
+                <a className="text-[#182c21] hover:text-[#57ad7c] transition-colors duration-200">Menu</a>
               </li>
             </nav>
           </div>
