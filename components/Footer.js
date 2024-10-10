@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex flex-wrap md:text-left text-center -mb-10 -mx-4 justify-between">
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
             <h2 className="title-font font-medium text-[#182c21] tracking-widest text-sm mb-3">Mamushi Restaurant</h2>
-            <p className="mb-4 text-[#182c21]">Where East Meets West: A Culinary Journey Through Bold Flavors and Inspired Fusion</p>
+            <p className="mb-4 text-[#182c21]">A symphony of taste awaits</p>
             <h2 className="title-font font-medium text-[#182c21] tracking-widest text-sm mb-1 mt-3">Quick Links</h2>
             <nav className="list-none mb-10">
               <li>
@@ -41,10 +41,10 @@ const Footer = () => {
       <div className="bg-[#57ad7c]">
         <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
           <p className="text-white text-sm text-center sm:text-left">
-            © 2024 Wok & Roll — 
+            © 2024 Mamushi Restaurant — 
             <a href="#" className="text-white ml-1" target="_blank" rel="noopener noreferrer">@yukidev</a>
           </p>
-          <span className="sm:ml-auto sm:mt-0 mt-2 sm:w-auto w-full sm:text-left text-center text-white text-sm">Elegance in Every Bite!</span>
+          <span className="sm:ml-auto sm:mt-0 mt-2 sm:w-auto w-full sm:text-left text-center text-white text-sm">A symphony of taste awaits</span>
         </div>
       </div>
     </footer>
